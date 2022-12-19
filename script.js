@@ -81,9 +81,7 @@ function () {
 })
 
 document.querySelector('.again').addEventListener('click', 
-function () {
-  resetGame()
-})
+resetGame)
 
 
 
